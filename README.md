@@ -2,12 +2,12 @@
 
 
 ## Algoritmos
-[NRU (Not Recently Used)]() <br>
-[FIFO (First-In, First-Out)]() <br>
-[FIFO-SC (FIFO Second-Chance)]() <br>
-[Relógio]() <br>
-[LRU (Least Recently Used)]() <br>
-[WS-Clock (Working Set Clock)]() <br>
+[NRU (Not Recently Used)](https://github.com/ArthurRCastilho/AlgoritmoSubstituicaoPaginas/tree/main/NRU) <br>
+[FIFO (First-In, First-Out)](https://github.com/ArthurRCastilho/AlgoritmoSubstituicaoPaginas/tree/main/FIFO) <br>
+[FIFO-SC (FIFO Second-Chance)](https://github.com/ArthurRCastilho/AlgoritmoSubstituicaoPaginas/tree/main/FIFO-SC) <br>
+[Relógio](https://github.com/ArthurRCastilho/AlgoritmoSubstituicaoPaginas/tree/main/Rel%C3%B3gio) <br>
+[LRU (Least Recently Used)](https://github.com/ArthurRCastilho/AlgoritmoSubstituicaoPaginas/tree/main/LRU) <br>
+[WS-Clock (Working Set Clock)](https://github.com/ArthurRCastilho/AlgoritmoSubstituicaoPaginas/tree/main/WS-Clock) <br>
 
 
 ## Explicação do Exercício.
