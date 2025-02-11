@@ -1,7 +1,7 @@
 # Simulador de Algoritmo de Substituição de Páginas - Algoritmo do Relógio
 
 ## 📌 Introdução
-Este projeto implementa um simulador para execução de algoritmos de substituição de páginas em um ambiente de memória virtual. A parte deste trabalho realizada por **Wisley César** refere-se à implementação do **algoritmo do Relógio**, um método eficiente de substituição de páginas.
+Este projeto implementa um simulador para execução de algoritmos de substituição de páginas em um ambiente de memória virtual. A parte deste trabalho realizada por [Wisley César ](https://github.com/wisley-cesar) refere-se à implementação do **algoritmo do Relógio**, um método eficiente de substituição de páginas.
 
 ## 📌 Descrição do Algoritmo do Relógio
 O algoritmo do Relógio é uma melhoria sobre o algoritmo FIFO (First-In, First-Out), usando um ponteiro circular para gerenciar a substituição de páginas. As regras são:
@@ -55,5 +55,5 @@ O algoritmo do Relógio se mostrou eficiente na substituição de páginas, equi
 
 ---
 
-Desenvolvido por **Wisley César**.
+Desenvolvido por [Wisley César Borges Do Vale](https://github.com/wisley-cesar)  
 
